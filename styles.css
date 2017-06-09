@@ -1,0 +1,10 @@
+#magic-hat {
+  border: 2px solid purple;
+  background-color: pink;
+  cursor: url(images/magic-wand.png), auto;
+}
+
+#start-over {
+  font-size: 18px;
+  display: none;
+}
